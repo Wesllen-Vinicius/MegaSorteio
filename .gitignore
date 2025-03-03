@@ -1,0 +1,101 @@
+# Diretório do ambiente virtual Python
+venv/
+.env
+*.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+.Python
+
+# Configuração do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs e arquivos temporários
+*.log
+*.out
+*.err
+*.pid
+*.swp
+*.swo
+*.swn
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Configuração de IDEs
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# Dependências do Node.js e TypeScript
+node_modules/
+dist/
+build/
+.tmp/
+coverage/
+.nyc_output/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Configurações específicas de TypeScript
+*.tsbuildinfo
+
+# Arquivos sensíveis e credenciais
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+*.jks
+*.json
+secrets/
+config.json
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Arquivos de Banco de Dados
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+dump.rdb
+*.sql
+
+# Arquivos de Docker
+docker-compose.override.yml
+
+# Outros arquivos específicos de projetos
+*.zip
+*.tar
+*.gz
+*.tgz
+*.rar
+*.7z
+*.iso
+*.bin
+*.exe
+*.app
+*.dmg
+*.apk
+*.ipa
+
+# Arquivos de cache diversos
+.cache/
+.pip/
+.poetry/
+.mypy_cache/
+.pytest_cache/
