@@ -1,4 +1,3 @@
-Aqui está o conteúdo do README pronto para você copiar todo de uma vez:
 
 ```
 # MegaSorteio - Gerador de 6 Dezenas Únicas para Mega-Sena
