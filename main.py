@@ -1,4 +1,4 @@
-import interface  # A interface gráfica está no arquivo 'interface.py'
+import interface
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     interface.main()
